@@ -15,3 +15,8 @@ class B:
     def set_b2(self, b):
         self._b2 = b
 
+    def MB1(self):
+        print("Método MB1!")
+
+    def MB2(self):
+        print("Método MB2!")

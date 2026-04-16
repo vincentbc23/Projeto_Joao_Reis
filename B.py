@@ -20,3 +20,6 @@ class B:
 
     def MB2(self):
         print("Método MB2!")
+
+    def MB3(self):
+        print("Método MB3!")
